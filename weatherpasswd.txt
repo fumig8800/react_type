@@ -1,0 +1,13 @@
+a001.n002@gmail.com 
+
+hzthbj8eCJpCH3w
+
+hzthbj8eCJpCH3w
+
+
+API key: 352924606e26449aa9203533211508
+
+352924606e26449aa9203533211508
+
+Call:
+https://api.weatherapi.com/v1/current.json?key=352924606e26449aa9203533211508&q=London&aqi=no
